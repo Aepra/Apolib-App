@@ -20,14 +20,13 @@ Apolib is a sophisticated Android-based pharmaceutical information assistant des
 
 ## 📸 App Interface
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/e3e9afb2-facd-4b68-8581-4112171e5992](https://github.com/user-attachments/assets/e3e9afb2-facd-4b68-8581-4112171e5992)" width="160"/>
-  <img src="[https://github.com/user-attachments/assets/14456267-6dd8-4afd-825b-d4f9e26ccacc](https://github.com/user-attachments/assets/14456267-6dd8-4afd-825b-d4f9e26ccacc)" width="160"/>
-  <img src="[https://github.com/user-attachments/assets/0835617c-e3ee-4d27-ae51-83591c558b06](https://github.com/user-attachments/assets/0835617c-e3ee-4d27-ae51-83591c558b06)" width="160"/>
-  <img src="[https://github.com/user-attachments/assets/6361a231-2b33-466c-81e7-f6789a9916c1](https://github.com/user-attachments/assets/6361a231-2b33-466c-81e7-f6789a9916c1)" width="160"/>
-  <img src="[https://github.com/user-attachments/assets/e41f85ec-2965-4246-b3a5-89ae04b6aa57](https://github.com/user-attachments/assets/e41f85ec-2965-4246-b3a5-89ae04b6aa57)" width="160"/>
-  <img src="[https://github.com/user-attachments/assets/8a186e96-bcc5-42a0-a22a-318ca612aa87](https://github.com/user-attachments/assets/8a186e96-bcc5-42a0-a22a-318ca612aa87)" width="160"/>
+  <img src="https://github.com/user-attachments/assets/e3e9afb2-facd-4b68-8581-4112171e5992" width="160"/>
+  <img src="https://github.com/user-attachments/assets/14456267-6dd8-4afd-825b-d4f9e26ccacc" width="160"/>
+  <img src="https://github.com/user-attachments/assets/0835617c-e3ee-4d27-ae51-83591c558b06" width="160"/>
+  <img src="https://github.com/user-attachments/assets/6361a231-2b33-466c-81e7-f6789a9916c1" width="160"/>
+  <img src="https://github.com/user-attachments/assets/e41f85ec-2965-4246-b3a5-89ae04b6aa57" width="160"/>
+  <img src="https://github.com/user-attachments/assets/8a186e96-bcc5-42a0-a22a-318ca612aa87" width="160"/>
 </p>
-
 ---
 
 ## 🛠 Technical Stack
